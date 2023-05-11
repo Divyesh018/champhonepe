@@ -1,0 +1,145 @@
+.navbar {
+    background-color: #663ab5;
+}
+
+.userlogo {
+    height: 4em;
+    width: 4em;
+
+}
+
+.indialogo {
+    height: 3em;
+    width: 3em;
+
+
+
+}
+
+.indias {
+    padding-left: 1em;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.qrcode {
+    height: 3em;
+    width: 3em;
+    margin-right: 2em;
+
+
+}
+
+.bellicon {
+    height: 3em;
+    width: 3em;
+    margin-right: 2em;
+
+
+
+}
+
+.questionmark {
+    height: 3em;
+    width: 3em;
+    margin-right: 2em;
+
+
+
+}
+
+
+
+
+
+
+.form-select {
+    background-color: aquamarine;
+    width: 10em;
+    margin-left: 1em;
+    color: aliceblue;
+    background-color: #663ab5;
+    padding-left: 3rem;
+
+}
+
+.container {
+    margin-top: 4em;
+}
+
+.cardone {
+    height: 5em;
+    width: 5em;
+}
+
+
+
+
+
+
+.firstrow {
+    margin-bottom: 3em;
+}
+
+.secondrow {
+    margin-bottom: 3em;
+}
+
+.thirdrow {
+    margin-bottom: 3em;
+}
+
+.fourthrow {
+    margin-bottom: 3em;
+}
+
+.fifthrow {
+    margin-bottom: 3em;
+}
+
+.sixthrow {
+    margin-bottom: 3em;
+}
+
+
+/* Stickybottom */
+
+.bottonstick {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stickybottom1 {
+
+    margin: auto;
+    color: aliceblue;
+
+
+}
+
+.sixthone {
+    margin-left: 7em;
+    margin-right: 7em;
+}
+
+
+
+
+
+.img6 {
+    height: 5em;
+    width: 5em;
+}
+
+.img7 {
+    height: 5em;
+    width: 5em;
+}
+
+
+.img8 {
+    height: 5em;
+    width: 5em;
+}
